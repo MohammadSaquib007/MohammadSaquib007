@@ -1,3 +1,7 @@
+Connect with me:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D4153D&size=30&lines=Hi+I+am+Mohammad+Saquib)](https://git.io/typing-svg)
+
+
 - 👋 Hi, I’m Mohammad Saquib
 - 
 - 🔭 I’m currently working on E-commerce website
@@ -12,5 +16,3 @@
 
 📫 How to reach me saquibmohammad38@gmail.com
 
-Connect with me:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D4153D&size=30&lines=Hi+I+am+Mohammad+Saquib)](https://git.io/typing-svg)
